@@ -1,0 +1,2 @@
+# sqlite
+with adminer
