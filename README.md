@@ -1,2 +1,2 @@
 # sqlite
-with adminer, start adminernopass.php
+avec adminer sans mot de passe
